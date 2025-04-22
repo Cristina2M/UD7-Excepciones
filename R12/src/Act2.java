@@ -7,4 +7,5 @@ public class Act2 {
 
 /*
 El error que aparece al ejecutarlo es: NumberFormatException
+Esto se debe a que se le está intentando dar un valor String a una variable int
  */
