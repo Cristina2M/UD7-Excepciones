@@ -4,3 +4,7 @@ public class Act2 {
         int aux2 = Integer.parseInt(aux);
     }
 }
+
+/*
+El error que aparece al ejecutarlo es: NumberFormatException
+ */

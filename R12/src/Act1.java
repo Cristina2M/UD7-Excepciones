@@ -4,3 +4,7 @@ public class Act1 {
         System.out.println (array_string[3].length());
     }
 }
+
+/*
+El error que aparece al ejecutarlo es: NullPointerException
+ */
