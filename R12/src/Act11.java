@@ -18,7 +18,7 @@ public class Act11 {
     } catch (NumberFormatException e) {
         valor = valor + Integer.parseInt("42");
         System.out.println("Valor al final del catch: " + valor);
-        throw e;
+        throw e; /* AQUI ESTÁ LA DIFERENCIA CON EL EJERCICIO ANTERIOR */
     } finally {
         valor = valor + 1;
         System.out.println("Valor al final del finally: " + valor);
